@@ -1,7 +1,7 @@
 from art import logo, vs
 from data import info
 import random
-#Print the logo
+#Print the logoo
 print(logo)
 account_b=random.choice(info)
 

@@ -1,5 +1,5 @@
 #Create a logo in ascii faormat for the game that says Higher Lower
-# from tkinter.messagebox import IGNORE
+##from tkinter.messagebox import IGNORE
 logo = """
   _   _ _       _                 _                              ____                       
  | | | (_) __ _| |__   ___ _ __  | |    _____      _____ _ __   / ___| __ _ _ __ ___   ___  
